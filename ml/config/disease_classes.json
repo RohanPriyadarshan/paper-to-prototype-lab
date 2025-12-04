@@ -1,0 +1,251 @@
+{
+  "num_classes": 38,
+  "classes": [
+    {
+      "id": "TOM_EB",
+      "index": 0,
+      "name": "Tomato Early Blight",
+      "crop": "Tomato"
+    },
+    {
+      "id": "TOM_LB",
+      "index": 1,
+      "name": "Tomato Late Blight",
+      "crop": "Tomato"
+    },
+    {
+      "id": "TOM_LS",
+      "index": 2,
+      "name": "Tomato Leaf Spot",
+      "crop": "Tomato"
+    },
+    {
+      "id": "TOM_SM",
+      "index": 3,
+      "name": "Tomato Spider Mites",
+      "crop": "Tomato"
+    },
+    {
+      "id": "TOM_TV",
+      "index": 4,
+      "name": "Tomato Target Spot",
+      "crop": "Tomato"
+    },
+    {
+      "id": "TOM_YL",
+      "index": 5,
+      "name": "Tomato Yellow Leaf Curl",
+      "crop": "Tomato"
+    },
+    {
+      "id": "TOM_MV",
+      "index": 6,
+      "name": "Tomato Mosaic Virus",
+      "crop": "Tomato"
+    },
+    {
+      "id": "TOM_BS",
+      "index": 7,
+      "name": "Tomato Bacterial Spot",
+      "crop": "Tomato"
+    },
+    {
+      "id": "TOM_SW",
+      "index": 8,
+      "name": "Tomato Septoria Leaf Spot",
+      "crop": "Tomato"
+    },
+    {
+      "id": "TOM_HL",
+      "index": 9,
+      "name": "Tomato Healthy",
+      "crop": "Tomato"
+    },
+    {
+      "id": "POT_EB",
+      "index": 10,
+      "name": "Potato Early Blight",
+      "crop": "Potato"
+    },
+    {
+      "id": "POT_LB",
+      "index": 11,
+      "name": "Potato Late Blight",
+      "crop": "Potato"
+    },
+    {
+      "id": "POT_HL",
+      "index": 12,
+      "name": "Potato Healthy",
+      "crop": "Potato"
+    },
+    {
+      "id": "CRN_CR",
+      "index": 13,
+      "name": "Corn Common Rust",
+      "crop": "Corn"
+    },
+    {
+      "id": "CRN_NL",
+      "index": 14,
+      "name": "Corn Northern Leaf Blight",
+      "crop": "Corn"
+    },
+    {
+      "id": "CRN_GS",
+      "index": 15,
+      "name": "Corn Gray Leaf Spot",
+      "crop": "Corn"
+    },
+    {
+      "id": "CRN_HL",
+      "index": 16,
+      "name": "Corn Healthy",
+      "crop": "Corn"
+    },
+    {
+      "id": "RIC_BB",
+      "index": 17,
+      "name": "Rice Bacterial Leaf Blight",
+      "crop": "Rice"
+    },
+    {
+      "id": "RIC_BL",
+      "index": 18,
+      "name": "Rice Brown Spot",
+      "crop": "Rice"
+    },
+    {
+      "id": "RIC_LB",
+      "index": 19,
+      "name": "Rice Leaf Blast",
+      "crop": "Rice"
+    },
+    {
+      "id": "RIC_HL",
+      "index": 20,
+      "name": "Rice Healthy",
+      "crop": "Rice"
+    },
+    {
+      "id": "APL_SC",
+      "index": 21,
+      "name": "Apple Scab",
+      "crop": "Apple"
+    },
+    {
+      "id": "APL_BR",
+      "index": 22,
+      "name": "Apple Black Rot",
+      "crop": "Apple"
+    },
+    {
+      "id": "APL_CR",
+      "index": 23,
+      "name": "Apple Cedar Rust",
+      "crop": "Apple"
+    },
+    {
+      "id": "APL_HL",
+      "index": 24,
+      "name": "Apple Healthy",
+      "crop": "Apple"
+    },
+    {
+      "id": "GRP_BR",
+      "index": 25,
+      "name": "Grape Black Rot",
+      "crop": "Grape"
+    },
+    {
+      "id": "GRP_EC",
+      "index": 26,
+      "name": "Grape Esca (Black Measles)",
+      "crop": "Grape"
+    },
+    {
+      "id": "GRP_LB",
+      "index": 27,
+      "name": "Grape Leaf Blight",
+      "crop": "Grape"
+    },
+    {
+      "id": "GRP_HL",
+      "index": 28,
+      "name": "Grape Healthy",
+      "crop": "Grape"
+    },
+    {
+      "id": "PEP_BS",
+      "index": 29,
+      "name": "Pepper Bacterial Spot",
+      "crop": "Pepper"
+    },
+    {
+      "id": "PEP_HL",
+      "index": 30,
+      "name": "Pepper Healthy",
+      "crop": "Pepper"
+    },
+    {
+      "id": "STR_LS",
+      "index": 31,
+      "name": "Strawberry Leaf Scorch",
+      "crop": "Strawberry"
+    },
+    {
+      "id": "STR_HL",
+      "index": 32,
+      "name": "Strawberry Healthy",
+      "crop": "Strawberry"
+    },
+    {
+      "id": "CHR_PM",
+      "index": 33,
+      "name": "Cherry Powdery Mildew",
+      "crop": "Cherry"
+    },
+    {
+      "id": "CHR_HL",
+      "index": 34,
+      "name": "Cherry Healthy",
+      "crop": "Cherry"
+    },
+    {
+      "id": "PCH_BS",
+      "index": 35,
+      "name": "Peach Bacterial Spot",
+      "crop": "Peach"
+    },
+    {
+      "id": "PCH_HL",
+      "index": 36,
+      "name": "Peach Healthy",
+      "crop": "Peach"
+    },
+    {
+      "id": "SOY_HL",
+      "index": 37,
+      "name": "Soybean Healthy",
+      "crop": "Soybean"
+    }
+  ],
+  "crops": [
+    "Tomato",
+    "Potato",
+    "Corn",
+    "Rice",
+    "Apple",
+    "Grape",
+    "Pepper",
+    "Strawberry",
+    "Cherry",
+    "Peach",
+    "Soybean"
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2024-12-04",
+    "authors": ["Rohan Priyadarshan", "Saket Kumawat"]
+  }
+}
